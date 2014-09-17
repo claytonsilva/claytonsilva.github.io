@@ -7,7 +7,7 @@
     </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410944290532" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410945024983" ignored="false" />
     <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410930873010" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
     <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943996967" ignored="false" />
@@ -97,7 +97,7 @@
       <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="9" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.93333334">
+            <state line="91" column="13" selection-start="5314" selection-end="5314" vertical-scroll-proportion="0.7">
               <folding />
             </state>
           </provider>
@@ -288,7 +288,11 @@
       <created>1410944295242</created>
       <updated>1410944295242</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ajuste de erro de build">
+      <created>1410945030359</created>
+      <updated>1410945030360</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -441,7 +445,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="9" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.93333334">
+        <state line="91" column="13" selection-start="5314" selection-end="5314" vertical-scroll-proportion="0.7">
           <folding />
         </state>
       </provider>
