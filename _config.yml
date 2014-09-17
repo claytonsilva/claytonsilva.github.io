@@ -10,14 +10,14 @@ url:              http://claytonsilva.github.io
 owner:
   name:           Clayton Santos da Silva
   avatar:         Perfil.png
-  bio:            "Sou Desenvolvedor de Paixão, possui várias tecnologias em minha carga de conhecimento. Sou ativo em fórums sociais de Desenvolvimento Web, e antenado nas últimas tendências de tecnologia. Fundei a xDevel Sistemas, onde nosso objetivo é sempre aprender e utilizar o que é novo em tecnologia e levar a nossos clientes."
+  bio:            "Sou Desenvolvedor de Paixão, possui várias tecnologias em minha carga de conhecimento. Sou ativo em fórums sociais de Desenvolvimento Web, e antenado nas últimas tendências de tecnologia."
   email:          clayton@xdevel.com.br
   # Social networking links used in footer. Update and remove as you like.
   twitter:        pakoteplastico
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
+  facebook:       clayton.ssilva
+  github:         claytonsilva
+  stackexchange:  http://pt.stackoverflow.com/users/7088/clayton-silva
+  linkedin:       https://www.linkedin.com/pub/clayton-santos-da-silva/51/94b/b6b
   instagram:      
   flickr:         
   tumblr:         
@@ -29,7 +29,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-43313456-2
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -44,7 +44,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Sao_Paulo
 future:      true
 highlighter: pygments
 markdown:    kramdown

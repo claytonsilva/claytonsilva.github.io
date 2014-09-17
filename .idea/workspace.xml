@@ -7,10 +7,10 @@
     </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943554458" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943635964" ignored="false" />
     <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410930873010" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
-    <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943625154" ignored="false" />
+    <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943893276" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="39" selection-start="879" selection-end="879" vertical-scroll-proportion="0.2562418">
+            <state line="55" column="11" selection-start="2063" selection-end="2063" vertical-scroll-proportion="0.52693826">
               <folding />
             </state>
           </provider>
@@ -209,7 +209,11 @@
       <created>1410943557486</created>
       <updated>1410943557487</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajuste de erro de build">
+      <created>1410943638675</created>
+      <updated>1410943638675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -334,7 +338,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="39" selection-start="879" selection-end="879" vertical-scroll-proportion="0.2562418">
+        <state line="55" column="11" selection-start="2063" selection-end="2063" vertical-scroll-proportion="0.52693826">
           <folding />
         </state>
       </provider>
