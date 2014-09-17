@@ -79,8 +79,9 @@
     </div><!-- /.read-more -->
   </article>
 </div><!-- /#main -->
-<div id="comments"></div>
 <div class="footer-wrapper">
+  <footer role="contentinfo">
+      <div id="comments"></div>
     <script>
         gapi.comments.render('comments', {
             href: window.location,
@@ -89,8 +90,7 @@
             view_type: 'FILTERED_POSTMOD'
         });
     </script>
-  <footer role="contentinfo">
-      <div id="comments"></div>
+
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
