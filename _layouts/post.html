@@ -7,7 +7,7 @@
 {% include head.html %}
 </head>
 
-<body id="post" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="post" {% if page.image.feature %}class="feature"{% endif %} >
 
 {% include browser-upgrade.html %}
 {% include navigation.html %}
@@ -73,6 +73,7 @@
           <div class="list-item">
             <h4><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
             <span>Published on {{ post.date | date: "%B %d, %Y" }}</span>
+              <a href="https://plus.google.com/+ClaytonSantosdaSilvaxDevel?rel=author">Google</a>
           </div><!-- /.list-item -->
         {% endfor %}
       </div><!-- /.read-more-list -->
