@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c483a66-ede5-480d-9ba8-88422961149d" name="Default" comment="" />
+    <list default="true" id="7c483a66-ede5-480d-9ba8-88422961149d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943361954" ignored="false" />
     <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410930873010" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
+    <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943545013" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +69,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="18" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.41392905">
+            <state line="11" column="19" selection-start="493" selection-end="493" vertical-scroll-proportion="0.21681997">
               <folding />
             </state>
           </provider>
@@ -326,7 +330,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="18" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.41392905">
+        <state line="11" column="19" selection-start="493" selection-end="493" vertical-scroll-proportion="0.21681997">
           <folding />
         </state>
       </provider>
