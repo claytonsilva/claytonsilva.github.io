@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c483a66-ede5-480d-9ba8-88422961149d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" afterPath="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410944233075" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410944290532" ignored="false" />
     <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410930873010" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
     <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943996967" ignored="false" />
@@ -100,7 +97,16 @@
       <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="30" selection-start="965" selection-end="965" vertical-scroll-proportion="0.6333333">
+            <state line="98" column="9" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.93333334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="79" selection-start="162" selection-end="162" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -278,7 +284,11 @@
       <created>1410943918515</created>
       <updated>1410943918515</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajuste de erro de build">
+      <created>1410944295242</created>
+      <updated>1410944295242</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -422,9 +432,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="79" selection-start="162" selection-end="162" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="30" selection-start="965" selection-end="965" vertical-scroll-proportion="0.6333333">
+        <state line="98" column="9" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.93333334">
           <folding />
         </state>
       </provider>

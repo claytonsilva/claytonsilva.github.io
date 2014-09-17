@@ -73,7 +73,6 @@
           <div class="list-item">
             <h4><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
             <span>Published on {{ post.date | date: "%B %d, %Y" }}</span>
-              <a href="https://plus.google.com/+ClaytonSantosdaSilvaxDevel?rel=author">Google</a>
           </div><!-- /.list-item -->
         {% endfor %}
       </div><!-- /.read-more-list -->
@@ -84,11 +83,20 @@
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
+      <div id="comments"></div>
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}	        
+{% include scripts.html %}
+<script>
+    gapi.comments.render('comments', {
+        href: window.location,
+        width: '624',
+        first_party_property: 'BLOGGER',
+        view_type: 'FILTERED_POSTMOD'
+    });
+</script>
 
 </body>
 </html>
