@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Notas humildes de um Desenvolvedor empolgado
+description:      Aqui emcontrará pequenas notas e dicas que passo no meu dia a dia, não existe um período que não faça nada novo.
+disqus_shortname: xDevel
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://claytonsilva.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Clayton Santos da Silva
+  avatar:         perfil.png
+  bio:            "Sou Desenvolvedor de Paixão, possui várias tecnologias em minha carga de conhecimento. Sou ativo em fórums sociais de Desenvolvimento Web, e antenado nas últimas tendências de tecnologia. Me Aventuro no mundo das novas tendências criando produtos novos e sempre com tecnologia nova, e em cima dessa premissa, fundei a xDevel Sistemas, onde nosso objetivo é sempre aprender e utilizar o que é novo em tecnologia."
+  email:          clayton@xdevel.com.br
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        @pakoteplastico
   facebook:       
   github:         
   stackexchange:  
@@ -23,7 +23,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +ClaytonSantosdaSilvaxDevel
 
 # Background image to be tiled on all pages
 background: 

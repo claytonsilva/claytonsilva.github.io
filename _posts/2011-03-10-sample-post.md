@@ -102,5 +102,4 @@ Make any link standout more when applying the `.btn` class.
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
 
-<a href="https://plus.google.com/+ClaytonSantosdaSilvaxDevel?
-   rel=author">Google</a>
+
