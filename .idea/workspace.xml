@@ -1,17 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/_site/index.html" />
+    <bookmark url="file://$PROJECT_DIR$/_site/assets/js/scripts.min.js" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7c483a66-ede5-480d-9ba8-88422961149d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011-03-10-sample-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-05-23-readability-feature-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-08-12-sample-link-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/abstract-1.jpg" afterPath="$PROJECT_DIR$/images/abstract-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.png" afterPath="$PROJECT_DIR$/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" afterPath="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/less/dl-menu.less" afterPath="$PROJECT_DIR$/assets/less/dl-menu.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.dlmenu.js" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.dlmenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.min.css" afterPath="$PROJECT_DIR$/assets/css/main.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/navigation.html" afterPath="$PROJECT_DIR$/_includes/navigation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts.html" afterPath="$PROJECT_DIR$/posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/scripts.html" afterPath="$PROJECT_DIR$/_includes/scripts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.min.js" afterPath="$PROJECT_DIR$/assets/js/scripts.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410945164416" ignored="false" />
-    <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410930873010" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411172652049" ignored="false" />
+    <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411182281500" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
-    <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410943996967" ignored="false" />
-    <file path="/post.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410944092579" ignored="false" />
+    <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411188495553" ignored="false" />
+    <file path="/post.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411180754455" ignored="false" />
+    <file path="/a.dummy" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411189586683" ignored="false" />
+    <file path="/main.min.css" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411175206679" ignored="false" />
+    <file path="/navigation.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411182414152" ignored="false" />
+    <file path="/footer.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411181003414" ignored="false" />
+    <file path="/scripts.min.js" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411181182230" ignored="false" />
+    <file path="/jquery.dlmenu.js" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411181204241" ignored="false" />
+    <file path="/posts.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411182729602" ignored="false" />
+    <file path="/Gemfile" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411187654136" ignored="false" />
+    <file path="/scripts.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411187781923" ignored="false" />
+    <file path="/i18n_filter.rb" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411187861326" ignored="false" />
+    <file path="/head.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411189244677" ignored="false" />
+    <file path="/2013-10-26-background-image.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411189607960" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,46 +73,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="45" selection-start="1630" selection-end="1630" vertical-scroll-proportion="-16.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2011-03-10-sample-post.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011-03-10-sample-post.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="0" selection-start="2993" selection-end="2993" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-10-26-background-image.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2013-10-26-background-image.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="102" selection-start="102" selection-end="102" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="posts.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="-11.25">
+            <state line="9" column="9" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,25 +85,63 @@
       <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.0">
+            <state line="28" column="10" selection-start="1199" selection-end="1209" vertical-scroll-proportion="-14.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme-setup.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme-setup.md">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="71" column="0" selection-start="3477" selection-end="3477" vertical-scroll-proportion="-7.8333335">
+              <folding>
+                <marker date="1411189613000" expanded="true" signature="3542:3602" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="23" selection-start="2751" selection-end="2751" vertical-scroll-proportion="-9.833333">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2013-10-26-background-image.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-10-26-background-image.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="20" selection-start="353" selection-end="353" vertical-scroll-proportion="0.4105263">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="29" selection-start="5218" selection-end="5218" vertical-scroll-proportion="0.8632075">
+            <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.7">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post-index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.18">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="disqus_comments.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="9" selection-start="580" selection-end="580" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
@@ -106,7 +150,16 @@
       <file leaf-file-name="scripts.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="79" selection-start="162" selection-end="162" vertical-scroll-proportion="-0.625">
+            <state line="15" column="11" selection-start="833" selection-end="833" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="i18n_filter.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_plugins/i18n_filter.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="27" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,13 +183,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_site/assets/js/plugins/jquery.dlmenu.js" />
+        <option value="$PROJECT_DIR$/assets/js/plugins/jquery.dlmenu.js" />
+        <option value="$PROJECT_DIR$/_site/assets/js/scripts.min.js" />
+        <option value="$PROJECT_DIR$/_includes/navigation.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/posts.html" />
-        <option value="$PROJECT_DIR$/_posts/2011-03-10-sample-post.md" />
+        <option value="$PROJECT_DIR$/_plugins/ext.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/_includes/scripts.html" />
+        <option value="$PROJECT_DIR$/_plugins/i18n_filter.rb" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
   </component>
@@ -199,6 +261,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="claytonsilva.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="claytonsilva.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -301,13 +377,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3239238" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32321808" sideWeight="0.670398" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -316,7 +392,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -384,72 +460,116 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="45" selection-start="1630" selection-end="1630" vertical-scroll-proportion="-16.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="-11.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-03-10-sample-post.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="0" selection-start="2993" selection-end="2993" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.0">
+        <state line="6" column="19" selection-start="128" selection-end="136" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/theme-setup.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="9" column="14" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-10-26-background-image.md">
+    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0">
+        <state line="128" column="46" selection-start="5672" selection-end="5672" vertical-scroll-proportion="-8.458333">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_site/theme-setup/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="102" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+        <state line="128" column="51" selection-start="5554" selection-end="5554" vertical-scroll-proportion="-6.5833335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="201" selection-end="201" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="63" selection-start="202" selection-end="202" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="580" selection-end="580" vertical-scroll-proportion="-5.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="79" selection-start="162" selection-end="162" vertical-scroll-proportion="-0.625">
+        <state line="15" column="11" selection-start="833" selection-end="833" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/i18n_filter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="27" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="10" selection-start="1199" selection-end="1209" vertical-scroll-proportion="-14.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="3477" selection-end="3477" vertical-scroll-proportion="-7.8333335">
+          <folding>
+            <marker date="1411189613000" expanded="true" signature="3542:3602" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.18">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="29" selection-start="5218" selection-end="5218" vertical-scroll-proportion="0.8632075">
+        <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.7">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="23" selection-start="2751" selection-end="2751" vertical-scroll-proportion="-9.833333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-10-26-background-image.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="20" selection-start="353" selection-end="353" vertical-scroll-proportion="0.4105263">
           <folding />
         </state>
       </provider>
