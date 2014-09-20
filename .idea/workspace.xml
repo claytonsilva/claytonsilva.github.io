@@ -6,20 +6,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c483a66-ede5-480d-9ba8-88422961149d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/scripts.html" afterPath="$PROJECT_DIR$/_includes/scripts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411190287343" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411190345569" ignored="false" />
     <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411182281500" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
     <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411188495553" ignored="false" />
     <file path="/post.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411180754455" ignored="false" />
-    <file path="/a.dummy" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411189586683" ignored="false" />
+    <file path="/a.dummy" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411190716199" ignored="false" />
     <file path="/main.min.css" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411175206679" ignored="false" />
     <file path="/navigation.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411182414152" ignored="false" />
-    <file path="/footer.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411181003414" ignored="false" />
+    <file path="/footer.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411191194529" ignored="false" />
     <file path="/scripts.min.js" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411181182230" ignored="false" />
     <file path="/jquery.dlmenu.js" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411181204241" ignored="false" />
     <file path="/posts.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411182729602" ignored="false" />
@@ -28,6 +31,7 @@
     <file path="/i18n_filter.rb" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411187861326" ignored="false" />
     <file path="/head.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411189244677" ignored="false" />
     <file path="/2013-10-26-background-image.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411189607960" ignored="false" />
+    <file path="/README.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411190739036" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +51,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
+            <state line="13" column="14" selection-start="606" selection-end="606" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="399" selection-end="399" vertical-scroll-proportion="0.16853933">
+            <state line="0" column="138" selection-start="138" selection-end="138" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="47" selection-start="3444" selection-end="3444" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,10 +107,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.7">
+            <state line="85" column="11" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.6108491">
               <folding />
             </state>
           </provider>
@@ -106,16 +119,7 @@
       <file leaf-file-name="post-index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.18">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="disqus_comments.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="580" selection-end="580" vertical-scroll-proportion="-5.625">
+            <state line="7" column="7" selection-start="369" selection-end="369" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -124,7 +128,7 @@
       <file leaf-file-name="scripts.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="11" selection-start="833" selection-end="833" vertical-scroll-proportion="-9.375">
+            <state line="5" column="8" selection-start="362" selection-end="362" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -157,9 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_site/assets/js/plugins/jquery.dlmenu.js" />
         <option value="$PROJECT_DIR$/assets/js/plugins/jquery.dlmenu.js" />
         <option value="$PROJECT_DIR$/_site/assets/js/scripts.min.js" />
         <option value="$PROJECT_DIR$/_includes/navigation.html" />
@@ -168,11 +169,14 @@
         <option value="$PROJECT_DIR$/posts.html" />
         <option value="$PROJECT_DIR$/_plugins/ext.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/_includes/scripts.html" />
         <option value="$PROJECT_DIR$/_plugins/i18n_filter.rb" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_includes/scripts.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
   </component>
@@ -368,19 +372,23 @@
       <created>1411190290907</created>
       <updated>1411190290907</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="personalizacao na segunda versao">
+      <created>1411190347887</created>
+      <updated>1411190347887</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32321808" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32321808" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -457,20 +465,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="128" selection-end="136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme-setup.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="14" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="128" column="46" selection-start="5672" selection-end="5672" vertical-scroll-proportion="-8.458333">
@@ -513,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="11" selection-start="833" selection-end="833" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/i18n_filter.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="27" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
@@ -533,20 +520,6 @@
           <folding>
             <marker date="1411189613000" expanded="true" signature="3542:3602" placeholder="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.18">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="372" selection-end="373" vertical-scroll-proportion="-2.7">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,7 +539,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="399" selection-end="399" vertical-scroll-proportion="0.16853933">
+        <state line="13" column="14" selection-start="606" selection-end="606" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="47" selection-start="3444" selection-end="3444" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="369" selection-end="369" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="138" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="8" selection-start="362" selection-end="362" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="11" selection-start="5059" selection-end="5059" vertical-scroll-proportion="0.6108491">
           <folding />
         </state>
       </provider>

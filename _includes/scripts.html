@@ -13,4 +13,12 @@
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
 </script>
+<script>
+    gapi.comments.render('comments', {
+        href: window.location,
+        width: '624',
+        first_party_property: 'BLOGGER',
+        view_type: 'FILTERED_POSTMOD'
+    });
+</script>
 {% endif %}

@@ -81,20 +81,11 @@
 </div><!-- /#main -->
 <div class="footer-wrapper">
   <footer role="contentinfo">
-      <div id="comments"></div>
     {% include footer.html %}
+      <div id="comments"></div>
   </footer>
 </div><!-- /.footer-wrapper -->
 
 {% include scripts.html %}
-<script>
-    gapi.comments.render('comments', {
-        href: window.location,
-        width: '624',
-        first_party_property: 'BLOGGER',
-        view_type: 'FILTERED_POSTMOD'
-    });
-</script>
-
 </body>
 </html>
