@@ -7,13 +7,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7c483a66-ede5-480d-9ba8-88422961149d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post-index.html" afterPath="$PROJECT_DIR$/_layouts/post-index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411193074986" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411193573650" ignored="false" />
     <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411193551122" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
     <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411188495553" ignored="false" />
@@ -54,7 +52,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="10" selection-start="326" selection-end="326" vertical-scroll-proportion="0.33254716">
+            <state line="19" column="97" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.5801887">
               <folding />
             </state>
           </provider>
@@ -397,7 +395,11 @@
       <created>1411193079228</created>
       <updated>1411193079228</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ajuste de idioma">
+      <created>1411193578027</created>
+      <updated>1411193578027</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -465,7 +467,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro post" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajuste de idioma" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -482,6 +484,7 @@
     <MESSAGE value="ajuste de erro de build" />
     <MESSAGE value="personalizacao na segunda versao" />
     <MESSAGE value="primeiro post" />
+    <MESSAGE value="ajuste de idioma" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -596,7 +599,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="326" selection-end="326" vertical-scroll-proportion="0.33254716">
+        <state line="19" column="97" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.5801887">
           <folding />
         </state>
       </provider>
