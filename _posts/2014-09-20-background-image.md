@@ -12,9 +12,5 @@ share: true
 Bem essa é minha mensagem de olá.
 
 
-{% highlight yaml %}
-image:
-  background: filename.png
-{% endhighlight %}
-
+<!--more-->
 Bem essa é minha mensagem de olá, breve irei postar técnicas que estamos utilizando na xDevel, como utilização do Docker, Scala, esperam que curtam.

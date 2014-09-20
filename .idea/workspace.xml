@@ -6,12 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c483a66-ede5-480d-9ba8-88422961149d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" afterPath="$PROJECT_DIR$/_posts/2014-09-20-background-image.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-20-background-image.md" afterPath="$PROJECT_DIR$/_posts/2014-09-20-background-image.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="claytonsilva.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411192257930" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411192668603" ignored="false" />
     <file path="/index.html" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411182281500" ignored="false" />
     <file path="/2011-03-10-sample-post.md" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1410941982732" ignored="false" />
     <file path="/_config.yml" changelist="7c483a66-ede5-480d-9ba8-88422961149d" time="1411188495553" ignored="false" />
@@ -99,7 +99,7 @@
       <file leaf-file-name="2014-09-20-background-image.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-09-20-background-image.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="148" selection-start="397" selection-end="397" vertical-scroll-proportion="0.38617885">
+            <state line="14" column="11" selection-start="185" selection-end="185" vertical-scroll-proportion="0.28455284">
               <folding />
             </state>
           </provider>
@@ -385,7 +385,11 @@
       <created>1411192261842</created>
       <updated>1411192261842</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="primeiro post">
+      <created>1411192670959</created>
+      <updated>1411192670959</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -453,7 +457,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="personalizacao na segunda versao" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro post" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -469,6 +473,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="ajuste de erro de build" />
     <MESSAGE value="personalizacao na segunda versao" />
+    <MESSAGE value="primeiro post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -583,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-09-20-background-image.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="148" selection-start="397" selection-end="397" vertical-scroll-proportion="0.38617885">
+        <state line="14" column="11" selection-start="185" selection-end="185" vertical-scroll-proportion="0.28455284">
           <folding />
         </state>
       </provider>
