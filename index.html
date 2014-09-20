@@ -17,7 +17,7 @@ image:
       {% if site.reading_time %}
       <span class="entry-reading-time pull-right">
         <i class="fa fa-clock-o"></i>
-        {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}Tempo estimado de leitura ~{% if readtime <= 1 %}1 minuto{% else %}{{ readtime }} minutos{% endif %}
+        {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}Tempo de leitura ~{% if readtime <= 1 %}1 minuto{% else %}{{ readtime }} minutos{% endif %}
       </span><!-- /.entry-reading-time -->
       {% endif %}
     </div><!-- /.entry-meta -->
